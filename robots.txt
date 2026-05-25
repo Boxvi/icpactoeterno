@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://icpactoeterno.boxvisoft.com/sitemap.xml
